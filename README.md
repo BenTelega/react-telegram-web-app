@@ -98,15 +98,10 @@ Here's what's coming up:
 
 As always, thanks to our amazing contributors!
 
-<!--GAMFC--><a href="https://github.com/vkruglikov" title="Valentin Kruglikov">
-  <img src="https://avatars.githubusercontent.com/u/9719024?v=4" width="42;" alt="Valentin Kruglikov"/>
-</a>
-<a href="https://github.com/xsa-dev" title="Aleksey Savin">
-  <img src="https://avatars.githubusercontent.com/u/16959353?v=4" width="42;" alt="Aleksey Savin"/>
-</a>
-<a href="https://github.com/alexgoto" title="Alexandr Gotovtsev">
-  <img src="https://avatars.githubusercontent.com/u/43707500?v=4" width="42;" alt="Alexandr Gotovtsev"/>
-</a><!--GAMFC-END-->
+<!--GAMFC--><a href="https://github.com/vkruglikov" title="Valentin Kruglikov"><img src="https://avatars.githubusercontent.com/u/9719024?v=4" width="42;" alt="Valentin Kruglikov"/></a>
+<a href="https://github.com/xsa-dev" title="Aleksey Savin"><img src="https://avatars.githubusercontent.com/u/16959353?v=4" width="42;" alt="Aleksey Savin"/></a>
+<a href="https://github.com/alexgoto" title="Alexandr Gotovtsev"><img src="https://avatars.githubusercontent.com/u/43707500?v=4" width="42;" alt="Alexandr Gotovtsev"/></a>
+<a href="https://github.com/BenTelega" title="BenTelega"><img src="https://avatars.githubusercontent.com/u/72995848?v=4" width="42;" alt="BenTelega"/></a><!--GAMFC-END-->
 
 Made with [contributors](https://github.com/jaywcjlove/github-action-contributors).
 
